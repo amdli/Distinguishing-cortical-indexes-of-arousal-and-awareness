@@ -1,16 +1,14 @@
 # Code Repository for *Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*
 
 This repository contains the analysis code used in the manuscript:  
-**"*Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*" (submitted to Cell Reports, 202X)**  
+**"*Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*" (submitted to Cell Reports, 2025)**  
 
 ---
 
 ## Overview
 The repository includes scripts for:
-- Data preprocessing (overnight EEG/EOG/EMG sleep recordings)  
+- Data preprocessing
 - Statistical analysis of patient and control groups  
-- Figure generation for the main text and supplemental materials  
-
 ---
 
 ## Requirements
@@ -25,10 +23,13 @@ The repository includes scripts for:
 ---
 
 ## Data Availability
-The datasets analyzed in this study are deposited and publicly available:  
-- **Raw data**: [Zenodo/Mendeley DOI – placeholder]  
+The datasets analyzed in this study are available for anonymous peer review:  
 
-Please download the datasets and place them in the `/data` directory before running the scripts.  
+- **Raw data**: [Private Mendeley preview link – accessible to reviewers]  
+- **Source data for figures**: [Private Mendeley preview link – accessible to reviewers]  
+
+At this stage, the datasets are shared in a private repository accessible only to the editorial office and reviewers.  
+Upon acceptance, the datasets will be made publicly available under a DOI, which will be included here and in the final published version of the manuscript.  
 
 ---
 
