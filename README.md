@@ -1,18 +1,24 @@
 # Code Repository for *Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*
 
 This repository contains the analysis code used in the manuscript:  
-**"*Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*" (submitted to Cell Reports, 2025)**  
+**"*Detecting cortical index of arousal in sleeping patients with unresponsive wakefulness syndrome*" (submitted to Cell Reports, 202X)**  
+
+> **Status:** The repository is currently being organized and updated.  
+> Minor changes to scripts, paths, and documentation may occur during peer review.  
+> A frozen, reproducible release (with tag and checksum) will be created upon acceptance.
 
 ---
 
 ## Overview
 The repository includes scripts for:
-- Data preprocessing
+- Data preprocessing (overnight EEG/EOG/EMG sleep recordings)  
 - Statistical analysis of patient and control groups  
+- Figure generation for the main text and supplemental materials  
+
 ---
 
 ## Requirements
-- Python 3.9 (recommended)  
+- Python 3.11 (recommended)  
 - Required packages are listed in `requirements.txt`:  
   - numpy  
   - scipy  
