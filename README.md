@@ -36,5 +36,5 @@ Upon acceptance, the datasets will be made publicly available under a DOI, which
 ## Usage
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/anonymous-repo/project-name.git
+   git clone git@github.com:amdli/Distinguishing-cortical-indexes-of-arousal-and-awareness.git
    cd project-name
